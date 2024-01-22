@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes-NodeJs-CRUD-MongoDB
 
 ## Udates
@@ -40,3 +41,6 @@ $ npm start
 
 ### Donations
 [Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
+=======
+
+>>>>>>> b09d7507a5d1287c19ff6a8aeb817812d1fde3b5
